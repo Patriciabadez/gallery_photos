@@ -6,9 +6,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Projeto3-Gallery-Photos_React
 
-
-## Link do Surge:   
-
 Este projeto foi feito em React durante um desafio chamado "5 Projetos em 5 Dias" da B7Web.
 
 ---
